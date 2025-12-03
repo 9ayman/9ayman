@@ -1,2 +1,2 @@
 NodeJS, TS, Python & Lua.
-Learning C#.
+Learning C.
